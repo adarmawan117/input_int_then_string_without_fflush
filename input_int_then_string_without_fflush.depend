@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577000825 source:d:\programming\projectc\update2\input_int_then_string_without_fflush\main.c
+	<stdio.h>
+	<stdlib.h>
+
